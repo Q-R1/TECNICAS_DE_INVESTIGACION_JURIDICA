@@ -9,7 +9,7 @@
 #### 📚 PROGRAMA DE ESTUDIOS  
 **Técnicas de Investigación Jurídica**  
 
-**Ciclo:** 2025  
+**Ciclo:** 2026  
 **Modalidad:** Presencial  
 **Créditos:** 6 (Teórico-Prácticos)  
 **Horario:**  
