@@ -3,10 +3,10 @@
 
 ### 📚 Facultad de Derecho y Ciencias Políticas | 🎓 División de Estudios de Posgrado e Investigación
 
-### ⚖️ PROGRAMA DE POSGRADO  
-**Maestría en Derechos Humanos**  
+### ⚖️ Maestría en Derechos Humanos  
 
-#### 📚 PROGRAMA DE ESTUDIOS  
+
+#### 📚 PROGRAMA   
 **Técnicas de Investigación Jurídica**  
 
 **Ciclo:** 2026  
@@ -17,21 +17,21 @@
 - Sábados: 🕗 9:00 - 14:00 hrs  
 
 ## 🎯 **Objetivo General**  
-"Proporcionar recursos doctrinales y metodológicos híbridos (clásicos y digitales) para investigaciones jurídicas, combinando inteligencia artificial y análisis de datos con software de código abierto." 
+"Proporcionar recursos doctrinales y metodológicos para una investigaciones jurídica actual." 
 
 ## ✨ **Propósito**  
-🔍 "Al finalizar el curso, el alumno dominará los paradigmas jurídicos y metodologías híbridas de investigación jurídica, combinando IA, análisis de datos con software de código abierto y garantizando rigor académico."
+🔍 "Al finalizar el curso, el alumnado conocerá y aplicará, en su entorno profesional y académico, las técnicas de investigación pertinentes para el análisis de las problemáticas del Derecho y la generación del conocimiento jurídico."
 
 # 📚 **Sistema de Evaluación**  
 
 ## 📌 **Criterios de Evaluación**  
 
-| **Componente**             | **Porcentaje**| **Rango de Calificación**|  
-|----------------------------|---------------|--------------------------|  
-| **Evaluación Parcial 1**   | 25%           | 8.0 - 10.0               |  
-| **Evaluación Parcial 2**   | 50%           | 8.0 - 10.0               |  
-| **Evaluación Parcial 3**   | 20%           | 8.0 - 10.0               |  
-|                            |               |                          |             
+| **Componente**             | **Porcentaje**|   
+|----------------------------|---------------|  
+| **Evaluación Parcial 1**   | 30%           |   
+| **Evaluación Parcial 2**   | 30%           |  
+| **Evaluación Parcial 3**   | 40%           |  
+|                            |               |        
 
 
 ## ✅ **Requisito obligatorio**  
