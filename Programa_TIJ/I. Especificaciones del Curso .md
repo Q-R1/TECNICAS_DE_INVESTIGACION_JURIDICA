@@ -28,9 +28,9 @@
 
 | **Componente**             | **Porcentaje**|   
 |----------------------------|---------------|  
-| **Evaluación Parcial 1**   | 30%           |   
+| **Evaluación Parcial 1**   | 40%           |   
 | **Evaluación Parcial 2**   | 30%           |  
-| **Evaluación Parcial 3**   | 40%           |  
+| **Evaluación Parcial 3**   | 30%           |  
 |                            |               |        
 
 
